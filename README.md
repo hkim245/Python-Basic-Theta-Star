@@ -2,7 +2,7 @@
 
 Python program that finds shortest path from start vertex to goal vertex.
 
-Usage: python basicthetastar.py <input file>
+Usage: python basicthetastar.py [input file]
 
 My system will be a robot path planner using the basic theta star algorithm. The user will
 be able to send a grid information as input and the system will send back the path found within
