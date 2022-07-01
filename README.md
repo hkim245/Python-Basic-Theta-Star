@@ -4,7 +4,7 @@ Python program that finds shortest path from start vertex to goal vertex.
 
 Usage: python basicthetastar.py [input file]
 
-first line of input file is grid size. \n
+first line of input file is grid size. </br>
 second line of inpiut file is start vertex.
 thrid line of input file is goal vertex.
 fourth line of input file is bottom left vertex of a wall.
