@@ -1,6 +1,6 @@
 # Python-Basic-Theta-Star
 
-Python program that finds shortest path from start vertex to goal vertex.
+Python program that finds shortest path from start vertex to goal vertex in a grid.
 
 Usage: python basicthetastar.py [input file]
 
